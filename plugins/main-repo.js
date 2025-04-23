@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/criss-vevo/CRISS-AI';
+    const githubRepoURL = 'https://github.com/Neggy5/PHANTOM_MD';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -179,7 +179,7 @@ ${repoData.description || 'No description provided'}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363378608564635@newsletter',
+                    newsletterJid: 0029VaySwxF9Bb67U6rkUB2i@newsletter',
                     newsletterName: config.OWNER_NAME || 'CRISS AI SUPPORT',
                     serverMessageId: 143
                 }
