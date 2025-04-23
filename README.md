@@ -1,9 +1,9 @@
-   𝗖𝗥𝗜𝗦𝗦 𝗔𝗜 𝗠𝗨𝗟𝗧𝗜 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
+   # *PHANTOM_MD* 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="left">
-  <a href="https://github.com/criss-vevo">
-    <img alt="criss-vevo logo"  src="https://files.catbox.moe/b4khnd.jpg">
+  <a href="https://github.com/Neggy5">
+    <img alt="PHANTOM_MD logo"  src="https://files.catbox.moe/y7yry1.jpg">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 
 <p align="left">
-<a href="https://github.com/criss-vevo/CRISS-AI/fork"><img src="https://img.shields.io/badge/Fork-white" alt="𝐅𝐨𝐫𝐤" width="100"></a>
+<a href="https://github.com/Neggy5/PHANTOM_MD/fork"><img src="https://img.shields.io/badge/Fork-white" alt="𝐅𝐨𝐫𝐤" width="100"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -35,7 +35,8 @@
 
   
 
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g)
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaySwxF9Bb67U6rkUB2i)
 
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# Thank you for your support❤️🙏✨
