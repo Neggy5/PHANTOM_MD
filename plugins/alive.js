@@ -35,8 +35,8 @@ async (conn, mek, m, { from, sender, reply }) => {
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363378608564635@newsletter',
-                    newsletterName: 'CRISS AI SUPPORT',
+                    newsletterJid: '',
+                    newsletterName: 'PHANTOM_MD SUPPORT',
                     serverMessageId: 143
                 }
             }
